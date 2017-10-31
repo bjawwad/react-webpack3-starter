@@ -14,3 +14,7 @@ and run following command to install the dependencies:
 ```
 npm install
 ```
+Start the project by running following command in the terminal:
+```
+npm run dev
+```
