@@ -9,6 +9,13 @@
     "dev": "webpack-dev-server --watch --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "reactjs",
+    "react",
+    "webpack3",
+    "sass",
+    "css"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
